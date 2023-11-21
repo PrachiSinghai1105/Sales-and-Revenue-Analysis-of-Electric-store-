@@ -1,5 +1,8 @@
 # Sales-and-Revenue-Analysis-of-Electric-store-
 
-•	Uploaded data, cleaned data using power query and created data model for the tables Customers, transactions and products.
-•	Used Power Bi dashboards to analyze trends in Revenue/sales by markets and product category
-•	Found Delhi NCR to be top performer in Revenue and Sales, Lucknow as most profitable city and Electric Sara stores as most profitable.
+1. Uploaded data and performed data cleaning using Power Query.
+2. Established a data model comprising tables for Customers, Transactions, and Products.
+3. Utilized Power BI dashboards to analyze revenue and sales trends across different markets and product categories.
+4. Identified Delhi NCR as the top performer in both revenue and sales metrics.
+5. Recognized Lucknow as the most profitable city in the analysis.
+6. Highlighted Electric Sara stores as the most profitable outlets in the dataset.
